@@ -18,6 +18,22 @@
 
 ### About Me
 
+```javascript
+const umam = {
+  fullName: "M. Fatihul Umam",
+  major: "Teknik Informatika",
+  university: "Universitas Trunojoyo Madura",
+  organization: "Practicum Assistant @ Wargalab",
+  coreFocus: [
+    "Web Architecture (Laravel, PHP MVC)",
+    "Data Processing & RAG (Python, LangChain)",
+    "UI/UX Concepting & Prototyping",
+    "Networking (Cisco Packet Tracer)"
+  ],
+  status: "Open for collaboration & continuous learning!"
+};
+```
+
 I am an Informatics Engineering student at Universitas Trunojoyo Madura with a strong passion for software engineering, data processing, and UI/UX design. I bridge the gap between backend logic, data architecture, and intuitive user interfaces.
 
 - **Currently studying:** Teknik Informatika @ Universitas Trunojoyo Madura.
