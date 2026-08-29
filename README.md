@@ -1,15 +1,15 @@
 <h1 align="center">Hi there, I'm M. Fatihul Umam</h1>
 
-<h3 align="center">Informatics Student | Practicum Assistant | Full-Stack & Data Enthusiast</h3>
+<h3 align="center">Informatics Student | Web Aplication Builder & Backend Developer</h3>
 
 <p align="center">
   <a href="https://fatihulumam.gt.tc/" target="_blank">
     <img src="https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
   </a>
-  <a href="mailto:emailmu@gmail.com">
+  <a href="mailto:fatihulumam1617@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/username-linkedin-mu" target="_blank">
+  <a href="https://linkedin.com/in/mfatihulumam" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -77,5 +77,5 @@ I am an Informatics Engineering student at Universitas Trunojoyo Madura with a s
 
 <p align="center">
   <i>Visitors:</i><br>
-  <img src="https://profile-counter.glitch.me/umam-cloud/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=umam-cloud&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
