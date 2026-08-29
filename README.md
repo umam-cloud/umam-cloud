@@ -49,7 +49,7 @@ I am an Informatics Engineering student at Universitas Trunojoyo Madura with a s
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umam-cloud&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=umam-cloud&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1B6FEB&fire=F5C518&currStreakLabel=1B6FEB&sideLabels=94a3b8&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff" height="155" alt="GitHub Streak"/>
 </p>
 
 
