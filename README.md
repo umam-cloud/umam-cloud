@@ -31,25 +31,17 @@ I am an Informatics Engineering student at Universitas Trunojoyo Madura with a s
 
 **Languages**  
 <p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=php,python,js&theme=dark" alt="Languages"/>
 </p>
 
 **Frameworks & Libraries**  
 <p align="left">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://skillicons.dev/icons?i=laravel,tailwind,flutter&theme=dark" alt="Languages"/>
 </p>
 
 **Database & Tools**  
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+   <img src="https://skillicons.dev/icons?i=mysql,firebase,git,figma&theme=dark" alt="Languages"/>
 </p>
 
 ---
@@ -57,7 +49,7 @@ I am an Informatics Engineering student at Universitas Trunojoyo Madura with a s
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umam-cloud&theme=radium&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umam-cloud&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
