@@ -54,16 +54,6 @@ I am an Informatics Engineering student at Universitas Trunojoyo Madura with a s
 
 ---
 
-### Highlighted Projects
-
-* **[FindFound](https://github.com/username-mu/link-repo)** - A web-based platform designed to facilitate reporting and matching lost and found items in the Telang area (Built with PHP MVC, Tailwind CSS, MySQL).
-* **[AbadiGas (TabungFlow)](https://github.com/username-mu/link-repo)** - An inventory dashboard and distribution management system for gas cylinder rentals, featuring automated client inactivity alerts.
-* **[Air Quality Data Extraction](https://github.com/username-mu/link-repo)** - Python scripts utilizing openEO to map and analyze SO2 and O3 pollutants across Bangkalan, Madura.
-* **[Advanced Pet Hotel DB](https://github.com/username-mu/link-repo)** - A comprehensive database system simulating 100,000+ transactions, fully equipped with stored procedures, custom functions, and triggers.
-* **[AERO-PARK UI/UX](https://github.com/username-mu/link-repo)** - Concept and proposal for a smart parking infrastructure system featuring a voice-to-visual chatbot and IoT integration.
-
----
-
 ### GitHub Stats
 
 <p align="center">
