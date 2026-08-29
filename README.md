@@ -68,14 +68,14 @@ I am an Informatics Engineering student at Universitas Trunojoyo Madura with a s
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME-GITHUB-MU&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME-GITHUB-MU&theme=radium&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=umam-cloud&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umam-cloud&theme=radium&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME-GITHUB-MU&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umam-cloud&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
   <i>Visitors:</i><br>
-  <img src="https://profile-counter.glitch.me/USERNAME-GITHUB-MU/count.svg" />
+  <img src="https://profile-counter.glitch.me/umam-cloud/count.svg" />
 </p>
