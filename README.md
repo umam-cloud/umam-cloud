@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm M. Fatihul Umam 👋</h1>
+<h1 align="center">Hi there, I'm M. Fatihul Umam</h1>
 
 <h3 align="center">Informatics Student | Practicum Assistant | Full-Stack & Data Enthusiast</h3>
 
@@ -16,18 +16,18 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I am an Informatics Engineering student at Universitas Trunojoyo Madura with a strong passion for software engineering, data processing, and UI/UX design. I bridge the gap between backend logic, data architecture, and intuitive user interfaces.
 
-- 🎓 **Currently studying:** Teknik Informatika @ Universitas Trunojoyo Madura.
-- 👨‍🏫 **Current Role:** Practicum Assistant at Wargalab (Teaching Web Development, Algorithms & Programming, and Intro to IT).
-- 💻 **Currently working on:** Web Applications (Laravel, PHP MVC) and Data Extractions/RAG Systems (Python, LangChain).
-- 🤝 **Open for collaboration:** Full-stack web projects, time-series forecasting, and UI/UX innovations.
+- **Currently studying:** Teknik Informatika @ Universitas Trunojoyo Madura.
+- **Current Role:** Practicum Assistant at Wargalab (Teaching Web Development, Algorithms & Programming, and Intro to IT).
+- **Currently working on:** Web Applications (Laravel, PHP MVC) and Data Extractions/RAG Systems (Python, LangChain).
+- **Open for collaboration:** Full-stack web projects, time-series forecasting, and UI/UX innovations.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Languages**  
 <p align="left">
@@ -55,7 +55,7 @@ I am an Informatics Engineering student at Universitas Trunojoyo Madura with a s
 
 ---
 
-### 🚀 Highlighted Projects
+### Highlighted Projects
 
 * **[FindFound](https://github.com/username-mu/link-repo)** - A web-based platform designed to facilitate reporting and matching lost and found items in the Telang area (Built with PHP MVC, Tailwind CSS, MySQL).
 * **[AbadiGas (TabungFlow)](https://github.com/username-mu/link-repo)** - An inventory dashboard and distribution management system for gas cylinder rentals, featuring automated client inactivity alerts.
@@ -65,7 +65,7 @@ I am an Informatics Engineering student at Universitas Trunojoyo Madura with a s
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=umam-cloud&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
